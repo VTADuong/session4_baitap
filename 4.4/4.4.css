@@ -1,0 +1,12 @@
+*{
+    margin: o;
+    padding: 4px;
+    box-sizing: border-box;
+}
+.text-blue{
+    color: blue;
+}
+
+body{
+      border: 1px solid black;
+}
