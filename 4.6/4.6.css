@@ -1,0 +1,25 @@
+h1{
+    color: darkblue;
+}
+
+.body{
+    text-align: center;
+    background-color: beige;
+    margin: 0;
+    padding: 20px;
+    display: inline-block;
+}
+
+.transition{
+    background-color: gainsboro;
+    color: black;
+    display: inline;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.transition:hover{
+    background-color: green;
+    color: white;
+    transition: 2s;
+}
